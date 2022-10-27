@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello! This is... an otherworldy pull request!</h2>
+<h2>Hello! This otherworldy pull request... will build</h2>
 </body>
 </html>
